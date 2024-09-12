@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<ul>
+  <li>Name: wonhyeok Choi</li> 
+<li>age:20</li> 
+<li>I'm currently learning on C prongramming</li>
+</ul>
 <!--
 **wonhyeok030205/wonhyeok030205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
